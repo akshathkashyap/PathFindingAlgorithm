@@ -26,7 +26,7 @@ SECRET_KEY = 'u#hd4gzoo+xxa2g_s(db^d@n#_mm_i604@s%eof6rm__mqse@3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', ]
+ALLOWED_HOSTS = ['127.0.0.1:8000', 'pfa-visualizer.herokuapp.com']
 
 
 # Application definition
