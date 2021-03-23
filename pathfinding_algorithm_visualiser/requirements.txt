@@ -3,7 +3,7 @@ certifi==2020.12.5
 Django
 Faker==5.6.1
 gunicorn==20.0.4
-psycopg2 @ file:///C:/ci/psycopg2_1608147654043/work
+psycopg2
 python-dateutil==2.8.1
 pytz
 six==1.15.0
